@@ -1,2 +1,2 @@
 # synent-task-task1-titanic-survival-bhavani
-In this project, I used the Titanic dataset to perform data cleaning using Pandas and applied machine learning models to predict passenger survival.
+This project focuses on the Titanic Survival Prediction problem. I used Pandas for data cleaning, preprocessing, and exploratory data analysis (EDA). After handling missing values and performing feature selection, I applied machine learning algorithms to build a predictive model that estimates passenger survival based on key attributes such as age, gender, passenger class, and fare. The model was evaluated on test data and shows good performance in predicting survival outcomes
